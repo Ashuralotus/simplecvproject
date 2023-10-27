@@ -3,6 +3,7 @@
     src: url("https://static.wixstatic.com/ufonts/09374c_6bb11670e04148429125905b1c9cc00c/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/09374c_6bb11670e04148429125905b1c9cc00c/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/09374c_6bb11670e04148429125905b1c9cc00c/ttf/file.ttf") format("ttf");
 }
 body {
+    width: 100%;
     overflow: scroll;
     background-image: url(img/classic.jpg);
     background-size: cover;
